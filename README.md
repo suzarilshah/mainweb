@@ -6,3 +6,6 @@ https://github.com/stephenou/fruitionsite/pull/243/files/b980cd435f420f218fb4780
 
 ## Link to Form
 https://chilipepper.io/form/xhot-yellowgreen-guajillo-36cef99b-02fc-4831-929d-7e1f1ba14b47
+
+### Website build with Notion + Fruition
+https://stephenou.notion.site/stephenou/Fruition-Free-Open-Source-Toolkit-for-Building-Websites-with-Notion-771ef38657244c27b9389734a9cbff44
