@@ -10,6 +10,8 @@
    */
   const SLUG_TO_PAGE = {
     '': 'd01e642f7b4b4ea4b3256a20a287113e',
+    'feedback': '478b1d9ae9b84471bcc3bcd7f3a14953',
+    
   };
   
   /* Step 3: enter your page title and description for SEO purposes */
@@ -33,6 +35,16 @@ s0.parentNode.insertBefore(s1,s0);
 })();
 </script>
 <!--End of Tawk.to Script-->
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YW4PQWEK9E"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YW4PQWEK9E');
+</script>
 
 <script language="JavaScript" type="text/javascript">
     //<![CDATA[
