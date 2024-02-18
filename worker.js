@@ -45,6 +45,7 @@ s0.parentNode.insertBefore(s1,s0);
 
   gtag('config', 'G-YW4PQWEK9E');
 </script>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <script language="JavaScript" type="text/javascript">
     //<![CDATA[
